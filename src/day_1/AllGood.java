@@ -18,7 +18,7 @@ public class AllGood {
         if(month2 == month && day == day2){
             System.out.println("Today is your birthday!!!");
         }
-        System.out.println("Today is not your birthday");
+        System.out.println("Today is not your birthday, I'm sorry");
     }
     }
 
